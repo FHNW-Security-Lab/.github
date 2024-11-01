@@ -59,6 +59,9 @@ We are committed to responsible disclosure practices. If you discover security v
 - **Website**: [FHNW Security Lab](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems)
 - **Location**: Windisch, Switzerland
 
+## 🧑‍🔬 Researchers
+- [Christopher Scherb](https://www.fhnw.ch/de/personen/christopher-scherb)
+
 ## ⚖️ License
 
 Unless otherwise specified, our projects are released under BSD 3-Clause Licence. See individual projects for specific licensing information.

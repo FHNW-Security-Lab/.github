@@ -52,11 +52,10 @@ Our research findings are regularly published in academic journals, conferences,
 
 ## 🔒 Responsible Disclosure
 
-We are committed to responsible disclosure practices. If you discover security vulnerabilities in our projects, please follow our [security policy](link-to-security-policy) for reporting.
+We are committed to responsible disclosure practices. If you discover security vulnerabilities in our projects, please follow our [security policy](security/disclosure.md) for reporting.
 
-## 📫 Contact
+## 📫 Information
 
-- **Email**: security.lab@fhnw.ch
 - **Website**: [FHNW Security Lab]([https://www.fhnw.ch](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems))
 - **Location**: Windisch, Switzerland
 

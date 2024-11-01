@@ -61,6 +61,7 @@ We are committed to responsible disclosure practices. If you discover security v
 
 ## 🧑‍🔬 Researchers
 - [Christopher Scherb](https://www.fhnw.ch/de/personen/christopher-scherb)
+- [Alexander Trapp](https://www.fhnw.ch/de/personen/georg-trapp)
 
 ## ⚖️ License
 

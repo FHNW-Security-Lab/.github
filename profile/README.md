@@ -56,7 +56,7 @@ We are committed to responsible disclosure practices. If you discover security v
 
 ## 📫 Information
 
-- **Website**: [FHNW Security Lab]([https://www.fhnw.ch](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems))
+- **Website**: [FHNW Security Lab]([https://www.fhnw.ch](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-of-mobile-and-distributed-systems)
 - **Location**: Windisch, Switzerland
 
 ## ⚖️ License

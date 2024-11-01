@@ -48,7 +48,7 @@ If you're interested in collaborating on security research projects, please reac
 
 ## 📚 Publications
 
-Our research findings are regularly published in academic journals, conferences, and technical reports. Visit our [Publications](link-to-publications) page for the latest research papers and presentations.
+Our research findings are regularly published in academic journals, conferences, and technical reports. Visit our [Publications](../Publications/publications.md) page for the latest research papers and presentations.
 
 ## 🔒 Responsible Disclosure
 

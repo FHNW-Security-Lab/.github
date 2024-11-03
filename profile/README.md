@@ -73,8 +73,6 @@ Unless otherwise specified, our projects are released under BSD 3-Clause Licence
 
 *Securing tomorrow's technology today.*
 
-University of Applied Sciences and Arts Northwestern Switzerland (FHNW)  
-
-School of Engineering / School of Computer Science
-
-Intitute of Mobile and Distributed Systems
+*<sup>University of Applied Sciences and Arts Northwestern Switzerland (FHNW)  \
+School of Engineering / School of Computer Science \
+Intitute of Mobile and Distributed Systems<sub>*

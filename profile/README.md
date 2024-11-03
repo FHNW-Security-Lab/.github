@@ -70,8 +70,7 @@ We are committed to responsible disclosure practices. If you discover security v
 Unless otherwise specified, our projects are released under BSD 3-Clause Licence. See individual projects for specific licensing information.
 
 ---
-
-*Securing tomorrow's technology today.*
+***Securing tomorrow's technology today.***
 
 *<sup>University of Applied Sciences and Arts Northwestern Switzerland (FHNW)  \
 School of Engineering / School of Computer Science \

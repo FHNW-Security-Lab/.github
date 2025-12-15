@@ -28,22 +28,6 @@ We conducts research across various domains of cybersecurity:
 
 This repository hosts our public research projects, tools, and frameworks. Our commitment to open source allows us to share our findings with the security community while fostering collaboration and innovation.
 
-### Exploit Simulation & Education
-- **[ExploitSimulator](https://github.com/FHNW-Security-Lab/ExploitSimulator)** - A web based x86 exploit simulator
-- **[ExploitSimulator-Standalone](https://github.com/FHNW-Security-Lab/ExploitSimulator-Standalone)** - Standalone x86 Emulator and Exploit Simulator
-- **[ExploitationChallenge](https://github.com/FHNW-Security-Lab/ExploitationChallenge)** - Exploitation Challenges for Teaching Software Security
-- **[WebSecLab](https://github.com/FHNW-Security-Lab/WebSecLab)** - WebSecLab of FHNW
-
-### Binary Analysis & Security Testing
-- **[mcs-analyser](https://github.com/FHNW-Security-Lab/mcs-analyser)** - Binary analysis tool to simulate and visualise communication paths of multi-component systems
-- **[TraceGuard](https://github.com/FHNW-Security-Lab/TraceGuard)** - Optimizing path exploration in symbolic execution using taint analysis
-- **[Sanitizing-Checker](https://github.com/FHNW-Security-Lab/Sanitizing-Checker)** - Checking for security and sanitizing features in a binary
-
-### Infrastructure & Tools
-- **[Gnome-VPN](https://github.com/FHNW-Security-Lab/Gnome-VPN)** - GNOME VPN Plugin for OpenConnect with SSO (GlobalProtect & AnyConnect)
-- **[Proxmoxinator](https://github.com/FHNW-Security-Lab/Proxmoxinator)** - Management Tool for Cloudinit and Proxmox
-- **[DefectDojoUploader](https://github.com/FHNW-Security-Lab/DefectDojoUploader)** - Easy Upload to Defect Dojo
-
 ## 🎓 Educational Integration
 
 As part of FHNW, we integrate our research directly into educational programs, providing students with hands-on experience in:

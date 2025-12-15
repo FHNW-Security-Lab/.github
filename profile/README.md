@@ -65,6 +65,13 @@ We are committed to responsible disclosure practices. If you discover security v
 - [Alexander Trapp](https://www.fhnw.ch/de/personen/georg-trapp)
 - [Tomas Horyl](https://www.fhnw.ch/de/personen/tomas-horyl)
 
+## 🔗 Related Organizations
+
+- **[FHNW Security Education](https://github.com/FHNW-security-education)** - Educational resources and teaching materials
+- **[FHNW Security Lab Experimental](https://github.com/FHNW-Security-Lab-Experimental)** - Experimental projects and prototypes
+- **[FHNW Security Lab Student Projects](https://github.com/FHNW-Security-Lab-Student-Projects)** - Student research and thesis projects
+- **[FHNW Security Lab Dependencies](https://github.com/FHNW-Security-Lab-Dependencies)** - Forked dependencies and libraries
+
 ## ⚖️ License
 
 Unless otherwise specified, our projects are released under BSD 3-Clause Licence. See individual projects for specific licensing information.

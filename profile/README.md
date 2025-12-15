@@ -63,6 +63,7 @@ We are committed to responsible disclosure practices. If you discover security v
 - [Christopher Scherb](https://www.fhnw.ch/de/personen/christopher-scherb)
 - [Luc Bryan Heitz](https://www.fhnw.ch/de/personen/luc-heitz)
 - [Alexander Trapp](https://www.fhnw.ch/de/personen/georg-trapp)
+- [Nico Bachmann](https://www.fhnw.ch/de/die-fhnw/hochschulen/informatik/institut-fuer-mobile-und-verteilte-systeme/ueber-uns)
 - [Tomas Horyl](https://www.fhnw.ch/de/personen/tomas-horyl)
 
 ## 🔗 Related Organizations
